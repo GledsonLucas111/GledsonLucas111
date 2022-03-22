@@ -21,7 +21,7 @@
   
 
 <div> 
- <a href="https://instagram.com/rafaballerini" target="_blank">
+ <a href="https://www.instagram.com/gledsonlucasm/" target="_blank">
    <img src="https://www.instagram.com/gledsonlucasm/" target="_blank">
  </a>
   <a href = "mailto:gledsonlucas111@gmail.com">
