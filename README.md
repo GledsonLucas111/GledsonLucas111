@@ -21,9 +21,6 @@
   
 
 <div> 
- <a href="https://www.instagram.com/gledsonlucasm/" target="_blank">
-   <img src="https://www.instagram.com/gledsonlucasm/" target="_blank">
- </a>
   <a href = "mailto:gledsonlucas111@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"
   </a>
