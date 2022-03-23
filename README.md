@@ -1,6 +1,6 @@
 ### Olá, eu sou Gledson Lucas 👋
 
-- 🌱 Estudando React.js, Node.js
+- 🌱 Estudando React.js, Node.js, Typescript
 
 
 <div align="center">
