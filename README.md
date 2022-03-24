@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Node.js, Typescript
 
-## 🛠 Tecnologias e ferramentas 
+## 🛠 Technologies and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -19,8 +19,7 @@
   
 </div>
 
-## 📧 Contato
-
+## 📧 Contact
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"
