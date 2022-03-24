@@ -1,13 +1,8 @@
-### Olá, eu sou Gledson Lucas 👋
+### Olá, Bem vindo ao meu GitHub👋
 
 - 🌱 Estudando React.js, Node.js, Typescript
 
 
-<div align="center">
-  <a href="https://github.com/GledsonLucas111">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GL-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +13,6 @@
 </div>
  
 ##
-  
 
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
@@ -30,6 +24,12 @@
 
 </div>
   
+<div align="center">
+  <a href="https://github.com/GledsonLucas111">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ##
   
   
