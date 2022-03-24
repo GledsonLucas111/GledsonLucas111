@@ -12,7 +12,7 @@
   <img align="center" alt="GL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## Redes socias
+## 📧 Redes socias
 
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
