@@ -2,7 +2,7 @@
 
 - 🌱 Estudando React.js, Node.js, Typescript
 
-##
+## Ferramentas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GL-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,7 @@
   <img align="center" alt="GL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-##
+## 
 
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
