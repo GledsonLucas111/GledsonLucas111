@@ -22,7 +22,7 @@
 ## 📧 Contact
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
   </a>
   <a href="https://www.linkedin.com/in/gledson-lucas-1b5873166/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
