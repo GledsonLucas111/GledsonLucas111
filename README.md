@@ -1,6 +1,6 @@
 ## Hello, Welcome to my GitHub👋
 
-- 🌱 Estudando Node.js, Typescript
+- 🌱 Studying Node.js, Typescript
 
 ## 🛠 Technologies and Tools
 
