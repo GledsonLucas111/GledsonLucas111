@@ -1,4 +1,4 @@
-## Olá, Bem vindo ao meu GitHub👋
+## Hello, Welcome to my GitHub👋
 
 - 🌱 Estudando Node.js, Typescript
 
