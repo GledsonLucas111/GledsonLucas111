@@ -2,7 +2,7 @@
 
 - 🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL
 
-## 🛠 Technologies and Tools
+## <p align="center">🛠 Technologies and Tools </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -19,7 +19,7 @@
   
 </div>
 
-## 📧 Contact
+## 📧 <p align="center">Contact</p>
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
