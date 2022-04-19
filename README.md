@@ -2,7 +2,7 @@
 
 ## <p>🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL </p>
 <div>
-  <img align="center" alt="img-NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" target="_blank"/>
+  <img align="center" height="80" width="100" alt="img-NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" target="_blank"/>
   
 </div>          
 
