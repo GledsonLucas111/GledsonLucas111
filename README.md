@@ -2,7 +2,8 @@
 
 ## <p>🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL </p>
 <div>
-  <img align="center" alt="img-NODE" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank"/>
+  <img align="center" alt="img-NODE" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" target="_blank"/>
+  
 </div>          
 
 ## <p>🛠 Technologies and Tools </p>
