@@ -2,7 +2,7 @@
 
 ## <p align="center">🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL </p>
 
-## <p align="center">🛠 Technologies and Tools </p>
+## <p>🛠 Technologies and Tools </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
