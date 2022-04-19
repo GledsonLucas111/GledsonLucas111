@@ -19,7 +19,7 @@
   
 </div>
 
-## 📧 <p align="center">Contact</p>
+## <p align="📧 center">Contact</p>
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
