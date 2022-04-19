@@ -1,4 +1,5 @@
 <h1 align="center">Hello, Welcome to my GitHub👋</h1>
+<h2 align="center">Frontend Web Developer</h2>
  
 ## 🌱  I’m currently studying
 
