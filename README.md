@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Welcome to my GitHub👋</h1>
-
-##🌱  I’m currently studying
+ 
+## 🌱  I’m currently studying
 
 <div>
   <img align="center" height="30" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
