@@ -1,10 +1,14 @@
 ## <p align="center">Hello, Welcome to my GitHub👋</p>
 
-## <p>🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL </p>
+## <p>🌱  I’m currently studying</p>
 <div>
-  <img align="center" height="80" width="100" alt="img-NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" target="_blank"/>
+  <img align="center" height="80" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
   
-  <img align="center" height="50" width="100" alt="img-NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_blank"/>
+  <img align="center" height="50" width="100" alt="img-typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"/>
+  
+   <img align="center" height="50" width="100" alt="img-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
+  
+  <img align="center" height="50" width="100" alt="img-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"/>
   
 </div>          
 
@@ -22,6 +26,8 @@
   <img align="center" alt="img-STYLED-COMPONENTS" height="30" width="100" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   
   <img align="center" alt="img-MATERIALUI" height="30" width="100" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
+  
+  <img align="center" alt="img-MATERIALUI" height="30" width="100" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
   
 </div>
 
