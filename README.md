@@ -1,4 +1,4 @@
-## Hello, Welcome to my GitHub👋
+## <p align="center">Hello, Welcome to my GitHub👋</p>
 
 - 🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL
 
