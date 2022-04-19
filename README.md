@@ -2,13 +2,13 @@
 
 ## <p>🌱  I’m currently studying</p>
 <div>
-  <img align="center" height="80" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
+  <img align="center" height="30" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
   
-  <img align="center" height="50" width="100" alt="img-typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"/>
+  <img align="center" height="30" width="100" alt="img-typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"/>
   
-   <img align="center" height="50" width="100" alt="img-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
+   <img align="center" height="30" width="100" alt="img-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
   
-  <img align="center" height="50" width="100" alt="img-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"/>
+  <img align="center"height="30" width="100" alt="img-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"/>
   
 </div>          
 
