@@ -4,7 +4,7 @@
 <div>
   <img align="center" height="80" width="100" alt="img-NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" target="_blank"/>
   
-  <img align="center" height="80" width="100" alt="img-NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_blank"/>
+  <img align="center" height="50" width="100" alt="img-NODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" target="_blank"/>
   
 </div>          
 
