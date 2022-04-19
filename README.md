@@ -1,6 +1,6 @@
 ## Hello, Welcome to my GitHub👋
 
-- 🌱  I’m currently studying Node.js, Typescript
+- 🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL
 
 ## 🛠 Technologies and Tools
 
