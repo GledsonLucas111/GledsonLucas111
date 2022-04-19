@@ -1,6 +1,6 @@
 ## <p align="center">Hello, Welcome to my GitHub👋</p>
 
-## <p align="center">🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL </p>
+## <p>🌱  I’m currently studying Node.js, Typescript, Knex.js, SQL </p>
 
 ## <p>🛠 Technologies and Tools </p>
 
