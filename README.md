@@ -1,7 +1,10 @@
 <h1 align="center">Hello, Welcome to my GitHub👋</h1>
 <h3 align="center">Frontend Web Developer</h3>
  
-## 🌱  I’m currently studying
+Sobre mim:
+Um sonhador em busca do aperfeiçoamento diário, quero através de códigos poder impactar as vidas das pessoas. Estou apaixonado pela área da tecnologia!
+ 
+🌱  I’m currently studying
 
 <div>
   <img align="center" height="30" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
@@ -16,7 +19,7 @@
 
 </div>          
 
-## 🛠 Technologies and Tools
+🛠 Technologies and Tools
 
 <div style="display: inline_block"><br>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -35,7 +38,7 @@
   
 </div>
 
-## 📧 Contact
+📧 Contact
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
@@ -45,7 +48,6 @@
   </a>
 </div>
   
-##
 
 <div align="center">
   <a href="https://github.com/gledsonlucas111">
@@ -53,7 +55,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
+
   
   
 ![Snake animation](https://github.com/GledsonLucas111/GledsonLucas111/blob/output/github-contribution-grid-snake.svg)
