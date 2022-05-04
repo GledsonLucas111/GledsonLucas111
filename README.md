@@ -5,7 +5,7 @@
   Um sonhador em busca do aperfeiçoamento diário, quero através de códigos poder impactar e facilitar as vidas das pessoas. Estou apaixonado pela área da tecnologia!
  
  
-<h3>🌱 I’m currently studying</h3>
+<h3>🌱 Estudando atualmente</h3>
 
 <div>
   <img align="center" height="30" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
@@ -20,7 +20,7 @@
 
 </div>          
 
-<h3>🛠 Technologies and Tools</h3>
+<h3>🛠 Tecnologias e ferramentas</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -39,7 +39,7 @@
   
 </div>
 
-<h3>📧 Contact</h3>
+<h3>📧 Contato</h3>
 
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
