@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Bem vindo ao meu GitHub👋</h1>
 <h3 align="center">Frontend Web Developer</h3>
  
-<h3>Sobre mim:</h3>
+<h3>👨‍💻 Sobre mim:</h3>
   Um sonhador em busca do aperfeiçoamento diário, quero através de códigos poder impactar e facilitar as vidas das pessoas. Estou apaixonado pela área da tecnologia!
  
  
