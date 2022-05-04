@@ -4,7 +4,8 @@
 <h3>Sobre mim:</h3>
 Um sonhador em busca do aperfeiçoamento diário, quero através de códigos poder impactar as vidas das pessoas. Estou apaixonado pela área da tecnologia!
  
-🌱  I’m currently studying
+ 
+<h3>🌱  I’m currently studying</h3>
 
 <div>
   <img align="center" height="30" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
@@ -19,7 +20,7 @@ Um sonhador em busca do aperfeiçoamento diário, quero através de códigos pod
 
 </div>          
 
-🛠 Technologies and Tools
+<h3>🛠 Technologies and Tools</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -38,7 +39,8 @@ Um sonhador em busca do aperfeiçoamento diário, quero através de códigos pod
   
 </div>
 
-📧 Contact
+<h3>📧 Contact</h3>
+
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
