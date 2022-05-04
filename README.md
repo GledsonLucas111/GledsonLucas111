@@ -2,6 +2,7 @@
 <h3 align="center">Frontend Web Developer</h3>
  
 Sobre mim:
+
 Um sonhador em busca do aperfeiçoamento diário, quero através de códigos poder impactar as vidas das pessoas. Estou apaixonado pela área da tecnologia!
  
 🌱  I’m currently studying
