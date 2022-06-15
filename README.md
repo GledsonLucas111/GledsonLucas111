@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Bem vindo ao meu GitHub👋</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Developer</h3>
  
 <h3>👨🏻‍💻 Sobre mim:</h3>
   Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos, e colocando em pratica tudo que já sei, para tentar simplificar a vida das pessoas.
