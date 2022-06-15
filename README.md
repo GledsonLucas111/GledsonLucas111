@@ -3,22 +3,7 @@
  
 <h3>👨🏻‍💻 Sobre mim:</h3>
   Entusiasta da tecnologia. Quero, através dos códigos, poder impactar e facilitar a vida das pessoas.
- 
- 
-<h3>🌱 Estudando atualmente</h3>
-
-<div>
-  <img align="center" height="30" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
-  
-  <img align="center" height="30" width="100" alt="img-typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"/>
-  
-   <img align="center" height="30" width="100" alt="img-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
-  
-  <img align="center" height="30" width="100" alt="img-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"/>
-  
-  <img  align="center" width="100px" height="30px" alt="img-knex"  src="https://user-images.githubusercontent.com/94838711/164778963-48a3d871-71b3-4c83-b32f-1d06da06805d.png" />
-
-</div>          
+          
 
 <h3>🛠 Tecnologias e ferramentas</h3>
 
@@ -36,6 +21,16 @@
   <img align="center" alt="img-MATERIALUI" height="30" width="100" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   
   <img align="center" alt="img-MATERIALUI" height="30" width="100" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+ 
+   <img align="center" height="30" width="100" alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
+  
+  <img align="center" height="30" width="100" alt="img-typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"/>
+  
+   <img align="center" height="30" width="100" alt="img-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
+  
+  <img align="center" height="30" width="100" alt="img-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"/>
+  
+  <img  align="center" width="100px" height="30px" alt="img-knex"  src="https://user-images.githubusercontent.com/94838711/164778963-48a3d871-71b3-4c83-b32f-1d06da06805d.png" />
   
 </div>
 
