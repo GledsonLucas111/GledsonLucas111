@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Web Developer</h3>
  
 <h3>👨🏻‍💻 Sobre mim:</h3>
-  Entusiasta da tecnologia. Quero, através dos códigos, poder impactar e facilitar a vida das pessoas.
+  Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos, e colocando em pratica tudo que já sei, para tentar simplificar a vida das pessoas.
           
 
 <h3>🛠 Tecnologias e ferramentas</h3>
