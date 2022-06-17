@@ -35,7 +35,6 @@
 </div>
 
 <h3>📧 Contato</h3>
-##
 
 <div> 
   <a href = "mailto:gledsonlucas111@gmail.com">
