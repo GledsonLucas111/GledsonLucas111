@@ -36,7 +36,7 @@
 
 <h3>📧 Contato</h3>
 
-<div> 
+<div style="display: inline_block"><br>
   <a href = "mailto:gledsonlucas111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
   </a>
