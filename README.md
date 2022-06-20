@@ -3,8 +3,7 @@
  
 <h3>👨🏻‍💻 Sobre mim:</h3>
   Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos, e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.
-          
-
+  
 <h3>🛠 Tecnologias e ferramentas</h3>
 
 <div style="display: inline_block"><br>
@@ -30,7 +29,7 @@
   
   <img align="center" height="30" width="100" alt="img-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"/>
   
-  <img style="margin: 10px 0px 0px"  align="center" width="100px" height="30px" alt="img-knex"  src="https://user-images.githubusercontent.com/94838711/164778963-48a3d871-71b3-4c83-b32f-1d06da06805d.png" />
+  <img align="center" width="100px" height="30px" alt="img-knex"  src="https://user-images.githubusercontent.com/94838711/164778963-48a3d871-71b3-4c83-b32f-1d06da06805d.png" />
   
 </div>
 
