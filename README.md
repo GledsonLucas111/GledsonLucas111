@@ -1,9 +1,13 @@
+
 <h1 align="center">Olá, Bem vindo ao meu GitHub👋</h1>
 <h3 align="center">Web developer</h3>
  <img align="right"
  src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/5069dda451bf4fc7a0bf9e9fe8ee6d0ed7d75d98/githubcard.svg"></img>
 <h3>👨🏻‍💻 Sobre mim:</h3>
-  **Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.**
+
+
+**Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimento
+s e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.**
  
 <h3 >🛠 Tecnologias e ferramentas<h3/>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
