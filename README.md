@@ -1,10 +1,10 @@
 <h1 align="center">Olá, Bem vindo ao meu GitHub👋</h1>
 <h3 align="center">Web developer</h3>
  
-<h3>👨🏻‍💻 Sobre mim:</h3>
+<h3 align="center">👨🏻‍💻 Sobre mim:</h3>
   Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.
   
-<h3>🛠 Tecnologias e ferramentas<h3/>
+<h3 align="center">🛠 Tecnologias e ferramentas<h3/>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="img-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="img-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,7 +19,7 @@
   <img align="center" width="100px" height="30px" alt="img-knex"  src="https://user-images.githubusercontent.com/94838711/164778963-48a3d871-71b3-4c83-b32f-1d06da06805d.png" />
  
 
-<h3>📧 Contato</h3>
+<h3 align="center">📧 Contato</h3>
 
 <div style="display: inline_block"><br>
   <a href="mailto:gledsonlucas111@gmail.com">
