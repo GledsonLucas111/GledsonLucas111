@@ -1,10 +1,11 @@
 <h1 align="center">Olá, Bem vindo ao meu GitHub👋</h1>
 <h3 align="center">Web developer</h3>
- 
-<h3 align="center">👨🏻‍💻 Sobre mim:</h3>
+ <img align="right"
+ src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/5069dda451bf4fc7a0bf9e9fe8ee6d0ed7d75d98/githubcard.svg"></img>
+<h3>👨🏻‍💻 Sobre mim:</h3>
   Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.
-  
-<h3 align="center">🛠 Tecnologias e ferramentas<h3/>
+ 
+<h3 >🛠 Tecnologias e ferramentas<h3/>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="img-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="img-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,22 +20,19 @@
   <img align="center" width="100px" height="30px" alt="img-knex"  src="https://user-images.githubusercontent.com/94838711/164778963-48a3d871-71b3-4c83-b32f-1d06da06805d.png" />
  
 
-<h3 align="center">📧 Contato</h3>
-
-<div style="display: inline_block"><br>
+<h3 >📧 Contato</h3>
   <a href="mailto:gledsonlucas111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"
   </a>
   <a href="https://www.linkedin.com/in/gledson-lucas-1b5873166/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
  
  
-<div align="center" style="width: 50vw"><br>
+<div><br>
   <a href="https://github.com/gledsonlucas111">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=dark"/>
+    <img height="122em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="122em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  ##
