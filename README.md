@@ -4,7 +4,7 @@
 **Web developer**
 
  <img align="right"
- src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/bfbb85de4e6f64a744cbe776c2aa3cf643600ba1/githubcard.svg"></img>
+ src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/8b30d58a25a1aad74170e17282ea68efdbcbba16/githubcard.svg"></img>
 <h3>👨🏻‍💻 Sobre mim:</h3>
 
 
