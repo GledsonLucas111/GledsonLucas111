@@ -2,7 +2,7 @@
 <h1 align="center">Olá, Bem vindo ao meu GitHub👋</h1>
 <h3 align="left"> Web developer </h3>
  <img align="right"
- src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/650519c8062505e0c70c806c4b30350e07fc74d4/githubcard.svg"></img>
+ src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/f4c58969d6e97eaa46fe8463b503b6e19320f8cb/githubcard.svg"></img>
 <h3>👨🏻‍💻 Sobre mim:</h3>
 
 
