@@ -8,8 +8,7 @@
 <h3>👨🏻‍💻 Sobre mim:</h3>
 
 
-**Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimento
-s e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.**
+**Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.**
  
 <h3 >🛠 Tecnologias e ferramentas<h3/>
   <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
