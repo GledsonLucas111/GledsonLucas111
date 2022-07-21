@@ -28,7 +28,7 @@
  
 <h3>📚 Estudando<h3/>
 <div>
- <img align="center" width="100px" height="30px" alt="img-knex"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+ <img align="center" width="100px" height="30px" alt="img-Sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 <h3>📧 Contato</h3>
 <div>
