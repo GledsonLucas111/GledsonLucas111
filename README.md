@@ -1,6 +1,8 @@
 
 <h1 align="center">Olá, seja Bem vindo(a) ao meu GitHub👋</h1>
-<h3 align="left"> Web developer </h3>
+
+**Web developer**
+
  <img align="right"
  src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/bfbb85de4e6f64a744cbe776c2aa3cf643600ba1/githubcard.svg"></img>
 <h3>👨🏻‍💻 Sobre mim:</h3>
