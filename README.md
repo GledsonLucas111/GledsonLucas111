@@ -28,8 +28,8 @@
  
 <h3>📚 Estudando<h3/>
 <div>
- <img align="center" width="70px" height="30px" alt="img-Sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
- <img align="center" width="70px" height="30px" alt="img-Sass"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 <h3>📧 Contato</h3>
 <div>
