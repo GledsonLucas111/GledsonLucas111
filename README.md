@@ -11,26 +11,23 @@
 **Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.**
  
 <h3>🛠 Tecnologias e Ferramentas<h3/>
+
 <div>
-  <img align="center" alt="img-REACT" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img align="center" alt="img-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="img-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="img-CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="img-STYLED-COMPONENTS" height="30" width="100" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img align="center" alt="img-MATERIALUI" height="30" width="100" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-  <img align="center" alt="img-MATERIALUI" height="30" width="100" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-   <img align="center" height="30"  alt="img-NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"/>
-  <img align="center" height="30"  alt="img-typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"/>
-   <img align="center" height="30"  alt="img-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
-  <img align="center" height="30"  alt="img-Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"/>
-  <img align="center" width="100px" height="30px" alt="img-knex"  src="https://user-images.githubusercontent.com/94838711/164778963-48a3d871-71b3-4c83-b32f-1d06da06805d.png" />
-  <img align="center" width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
+  <img height="50px" alt="logo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img height="50px" alt="logo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img height="50px" alt="logo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img height="50px" alt="logo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="50px" alt="logo-MaterialUi" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
+  <img height="50px" alt="logo-Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="50px" alt="logo-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="50px" alt="logo-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank" />
+  <img height="50px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
  </div>
  
 <h3>📚 Estudando<h3/>
 <div>
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img height="50px" alt="logo-Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 
