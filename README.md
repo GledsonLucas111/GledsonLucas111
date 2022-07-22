@@ -5,8 +5,8 @@
 
  <img align="right"
  src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/8b30d58a25a1aad74170e17282ea68efdbcbba16/githubcard.svg"></img>
+ 
 <h3>👨🏻‍💻 Sobre mim:</h3>
-
 
 **Entusiasta da tecnologia. Quero estar constantemente aprimorando meus conhecimentos e colocando em pratica tudo que já sei para tentar simplificar a vida das pessoas.**
  
@@ -25,6 +25,7 @@
  </div>
  
 <h3>📚 Estudando<h3/>
+
 <div>
 <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img height="50px" alt="logo-Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -32,6 +33,7 @@
 
 
 <h3>📧 Contato</h3>
+
 <div>
   <a href="mailto:gledsonlucas111@gmail.com">
     <img height="40px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"/>
@@ -45,8 +47,7 @@
 <div>
  <h3>⭐ GitHub Stats</h3>
   <a href="https://github.com/gledsonlucas111">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
