@@ -13,22 +13,50 @@
 <h3>🛠 Tecnologias e Ferramentas<h3/>
 
 <div>
+  <a href="HTML5">
   <img height="50px" alt="logo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  </a>
+  
+  <a href="Css3">
   <img height="50px" alt="logo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </a>
+  
+  <a href="JavaScript">
   <img height="50px" alt="logo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="TypeScript">
   <img height="50px" alt="logo-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
+  <a href="React">
   <img height="50px" alt="logo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+  <a href="MaterialUi">
   <img height="50px" alt="logo-MaterialUi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  </a>
+  
+  <a href="NodeJs">
   <img height="50px" alt="logo-Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>
+  
+  <a href="MySql">
   <img height="50px" alt="logo-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank" />
+  </a>
+  
+  <a href="Jest">
   <img height="45px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  </a>
  </div>
  
 <h3>📚 Estudando<h3/>
 
 <div>
+<a href="Saas">
 <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img height="50px" alt="logo-Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</a>
+
+<a href="C#">
+<img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</a>
 </div>
 
 
