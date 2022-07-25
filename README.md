@@ -13,36 +13,36 @@
 <h3>🛠 Tecnologias e Ferramentas<h3/>
 
 <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
   <img height="50px" alt="logo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
   
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
   <img height="50px" alt="logo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </a>
   
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
   <img height="50px" alt="logo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
-  <a href="https://www.typescriptlang.org/docs/">
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
   <img height="50px" alt="logo-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </a>
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank">
   <img height="50px" alt="logo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="https://mui.com/pt/material-ui/getting-started/overview/">
+  <a href="https://mui.com/pt/material-ui/getting-started/overview/" target="_blank">
   <img height="50px" alt="logo-MaterialUi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   </a>
   
-  <a href="https://nodejs.org/en/docs/">
+  <a href="https://nodejs.org/en/docs/" target="_blank">
   <img height="50px" alt="logo-Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a>
   
-  <a href="https://dev.mysql.com/doc/">
+  <a href="https://dev.mysql.com/doc/" target="_blank">
   <img height="50px" alt="logo-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank" />
   </a>
   
-  <a href="https://jestjs.io/pt-BR/docs/getting-started">
+  <a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
   <img height="45px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   </a>
  </div>
@@ -50,11 +50,11 @@
 <h3>📚 Estudando<h3/>
 
 <div>
-<a href="https://sass-lang.com/documentation/">
+<a href="https://sass-lang.com/documentation/" target="_blank">
 <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </a>
 
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">
 <img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </a>
 </div>
