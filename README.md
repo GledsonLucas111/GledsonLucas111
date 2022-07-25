@@ -13,36 +13,36 @@
 <h3>🛠 Tecnologias e Ferramentas<h3/>
 
 <div>
-  <a href="HTML5">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img height="50px" alt="logo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   </a>
   
-  <a href="Css3">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
   <img height="50px" alt="logo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </a>
   
-  <a href="JavaScript">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   <img height="50px" alt="logo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
-  <a href="TypeScript">
+  <a href="https://www.typescriptlang.org/docs/">
   <img height="50px" alt="logo-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   </a>
-  <a href="React">
+  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
   <img height="50px" alt="logo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="MaterialUi">
+  <a href="https://mui.com/pt/material-ui/getting-started/overview/">
   <img height="50px" alt="logo-MaterialUi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   </a>
   
-  <a href="NodeJs">
+  <a href="https://nodejs.org/en/docs/">
   <img height="50px" alt="logo-Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   </a>
   
-  <a href="MySql">
+  <a href="https://dev.mysql.com/doc/">
   <img height="50px" alt="logo-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank" />
   </a>
   
-  <a href="Jest">
+  <a href="https://jestjs.io/pt-BR/docs/getting-started">
   <img height="45px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   </a>
  </div>
@@ -50,11 +50,11 @@
 <h3>📚 Estudando<h3/>
 
 <div>
-<a href="Saas">
+<a href="https://sass-lang.com/documentation/">
 <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </a>
 
-<a href="C#">
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
 <img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </a>
 </div>
