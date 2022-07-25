@@ -14,7 +14,7 @@
 
 <div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
-  <img height="50px" alt="logo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50px" alt="logo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" target="_blank"/>
   </a>
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
