@@ -1,11 +1,9 @@
 
 <h1 align="center">Olá, seja bem vindo(a) ao meu GitHub👋</h1>
 
-**Web developer**
+<p align="center">Web developer</p>
 
- <img align="right"
- src="https://raw.githubusercontent.com/gist/GledsonLucas111/5022e3f6b1f742b819961280278e63fe/raw/8b30d58a25a1aad74170e17282ea68efdbcbba16/githubcard.svg"></img>
- 
+
 <h3>👨🏻‍💻 Sobre mim:</h3>
 
 **Olá, eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar programação, mas sempre fui apaixonado pelo mundo da tecnologia. Sou formado pelo bootcamp web full-stack na <a href="https://www.labenu.com.br" target="_blank">Labenu</a>. Um dos meus objetivos tanto como pessoa quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei e que estou aprendendo para tentar simplificar a vida das pessoas.**
