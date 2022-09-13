@@ -55,6 +55,9 @@
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
 <img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </a>
+<a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</a>
 </div>
 
 
