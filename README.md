@@ -5,7 +5,16 @@
 
 <h3 align="center">👨🏻‍💻 Sobre mim:</h3>
 
-**Olá, eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar programação, mas sempre fui apaixonado pelo mundo da tecnologia. Sou formado pelo bootcamp web full-stack na <a href="https://www.labenu.com.br" target="_blank">Labenu</a>. Um dos meus objetivos tanto como pessoa quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei e que estou aprendendo para tentar simplificar a vida das pessoas.**
+```javascript
+const Gledson = {
+  pronomes: "ele" | "dele",
+  sobre_mim: "eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar programação, 
+  mas sempre fui apaixonado pelo mundo da tecnologia. Sou formado pelo bootcamp web full-stack na Labenu.
+  Um dos meus objetivos tanto como pessoa quanto profissional é de estar em um constante aprendizado, 
+  sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei 
+  e que estou aprendendo para tentar simplificar a vida das pessoas."
+}
+```
  
 <h3 align="center">🛠 Tecnologias e Ferramentas<h3/>
 
