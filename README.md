@@ -59,9 +59,6 @@
 <img height="50px" alt="logo-Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </a>
 
-<a>
-<img height="50px" alt="logo-tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />       
-</a>
 </div>
 
 
