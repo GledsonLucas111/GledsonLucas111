@@ -7,7 +7,7 @@
 
 **Olá, eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar programação, mas sempre fui apaixonado pelo mundo da tecnologia. Sou formado pelo bootcamp web full-stack na <a href="https://www.labenu.com.br" target="_blank">Labenu</a>. Um dos meus objetivos tanto como pessoa quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei e que estou aprendendo para tentar simplificar a vida das pessoas.**
  
-<h3>🛠 Tecnologias e Ferramentas<h3/>
+<h3 align="center">🛠 Tecnologias e Ferramentas<h3/>
 
 <table width="320px" align="center">
   <tbody valign="top">
@@ -19,62 +19,87 @@
         </a>
       </td>
       <td width="80px" align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        <span>CSS3</span>
-        <img height="50px" alt="logo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      </a>
-    </td>
-    
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  <img height="50px" alt="logo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </a>
-  <a href="https://www.typescriptlang.org/docs/">
-  <img height="50px" alt="logo-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  </a>
-  <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-  <img height="50px" alt="logo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a href="https://mui.com/pt/material-ui/getting-started/overview/">
-  <img height="50px" alt="logo-MaterialUi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  </a>
-  
-  <a href="https://nodejs.org/en/docs/">
-  <img height="50px" alt="logo-Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </a>
-  
-  <a href="https://dev.mysql.com/doc/">
-  <img height="50px" alt="logo-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank" />
-  </a>
-  
-  <a href="https://jestjs.io/pt-BR/docs/getting-started">
-  <img height="45px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  </a>
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+          <span>CSS3</span>
+          <img height="50px" alt="logo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+          <span>JavaScript</span>
+          <img height="50px" alt="logo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://www.typescriptlang.org/docs/">
+          <span>TypeScript</span>
+          <img height="50px" alt="logo-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://pt-br.reactjs.org/docs/getting-started.html">
+          <span>React</span>
+          <img height="50px" alt="logo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://mui.com/pt/material-ui/getting-started/overview/">
+          <span>MaterialUi</span>
+          <img height="50px" alt="logo-MaterialUi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://nodejs.org/en/docs/">
+          <span>Node</span>
+          <img height="50px" alt="logo-Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://dev.mysql.com/doc/">
+          <span>MySql</span>
+          <img height="50px" alt="logo-MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://jestjs.io/pt-BR/docs/getting-started">
+          <span>Jest</span>
+          <img height="45px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table> 
 
 
-<h3>📚 Estudando</h3>
+<h3 align="center">📚 Estudando</h3>
+<table width="320px" align="center">
+  <tbody valign="top">
+    <tr>
+      <td width="80px" align="center">
+        <a href="https://sass-lang.com/documentation/">
+          <span>Saas</span>
+          <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+          <span>C#</span>
+          <img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+        <a href="https://nextjs.org">
+          <span>Next.js</span>
+          <img height="50px" alt="logo-Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+        </a>
+      </td> 
+    </tr>
+  </tbody>
+</table> 
 
-<div>
-<a href="https://sass-lang.com/documentation/">
-<img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</a>
 
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-<img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-</a>
-
-<a>
-<img height="50px" alt="logo-Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</a>
-
-</div>
-
-
-<h3>📧 Contato</h3>
-
-<div>
+<h3 align="center">📧 Contato</h3>
+<div align="center">
   <a href="mailto:gledsonlucas111@gmail.com">
     <img height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -85,10 +110,11 @@
  
  
 <div>
- <h3>⭐ GitHub Stats</h3>
+ <h3 align="center">⭐ GitHub Stats</h3>
+  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=radical"/>
+ </div>
 </div>
  
  ##
