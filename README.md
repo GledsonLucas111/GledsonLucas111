@@ -3,7 +3,7 @@
 <p align="center">Web developer</p>
 
 
-<h3>👨🏻‍💻 Sobre mim:</h3>
+<h3 align="center">👨🏻‍💻 Sobre mim:</h3>
 
 **Olá, eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar programação, mas sempre fui apaixonado pelo mundo da tecnologia. Sou formado pelo bootcamp web full-stack na <a href="https://www.labenu.com.br" target="_blank">Labenu</a>. Um dos meus objetivos tanto como pessoa quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei e que estou aprendendo para tentar simplificar a vida das pessoas.**
  
@@ -72,6 +72,7 @@
 
 
 <h3 align="center">📚 Estudando</h3>
+
 <table width="320px" align="center">
   <tbody valign="top">
     <tr>
@@ -99,6 +100,7 @@
 
 
 <h3 align="center">📧 Contato</h3>
+
 <div align="center">
   <a href="mailto:gledsonlucas111@gmail.com">
     <img height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
