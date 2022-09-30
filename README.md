@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá, seja bem vindo(a) ao meu GitHub👋</h1>
 
 <p align="center">Web developer</p>
@@ -55,8 +54,13 @@
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
 <img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </a>
+
 <a>
 <img height="50px" alt="logo-Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+</a>
+
+<a>
+<img height="50px" alt="logo-tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />       
 </a>
 </div>
 
