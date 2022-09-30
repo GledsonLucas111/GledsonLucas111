@@ -9,15 +9,22 @@
  
 <h3>🛠 Tecnologias e Ferramentas<h3/>
 
-<div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-  <img height="50px" alt="logo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-  <img height="50px" alt="logo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </a>
-  
+<table width="320px" align="center">
+  <tbody valign="top">
+    <tr>
+      <td width="80px" align="center">
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+          <span>HTML5</span>
+          <img height="50px" alt="logo-Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+        </a>
+      </td>
+      <td width="80px" align="center">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+        <span>CSS3</span>
+        <img height="50px" alt="logo-Css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      </a>
+    </td>
+    
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   <img height="50px" alt="logo-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </a>
@@ -42,9 +49,12 @@
   <a href="https://jestjs.io/pt-BR/docs/getting-started">
   <img height="45px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   </a>
- </div>
- 
-<h3>📚 Estudando<h3/>
+    </tr>
+  </tbody>
+</table> 
+
+
+<h3>📚 Estudando</h3>
 
 <div>
 <a href="https://sass-lang.com/documentation/">
