@@ -118,6 +118,7 @@ Eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar progra
  <h3 align="center">⭐ GitHub Stats</h3>
   <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=radical"/>
  </div>
 </div>
