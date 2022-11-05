@@ -69,6 +69,12 @@ Eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar progra
           <img height="45px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
         </a>
       </td>
+      <td width="80px" align="center">
+        <a href="https://sass-lang.com/documentation/">
+          <span>Saas</span>
+          <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table> 
@@ -79,12 +85,6 @@ Eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar progra
 <table width="320px" align="center">
   <tbody valign="top">
     <tr>
-      <td width="80px" align="center">
-        <a href="https://sass-lang.com/documentation/">
-          <span>Saas</span>
-          <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-        </a>
-      </td>
       <td width="80px" align="center">
         <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
           <span>C#</span>
