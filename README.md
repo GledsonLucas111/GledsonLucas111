@@ -6,7 +6,7 @@
 
 <h4 align="center">
 <strong>
-Eu sou o Gledson Lucas, tenho 21 anos e há algum tempo comecei a estudar programação, mas sempre fui apaixonado pelo mundo da tecnologia. Sou formado pelo bootcamp, com mais de 1000 horas práticas, web full-stack na <a href="https://www.labenu.com.br">Labenu</a>. Um dos meus objetivos tanto como pessoa, quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei e que estou aprendendo para tentar simplificar a vida das pessoas.
+Olá, eu sou o Gledson. sempre fui apaixonado pelo mundo da tecnologia. Sou certificado pelo bootcamp, com mais de 1000 horas práticas, web full-stack na <a href="https://www.labenu.com.br">Labenu</a>. Um dos meus objetivos tanto como pessoa, quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei e que estou aprendendo para tentar simplificar a vida das pessoas.
 </strong>
 <h4>
  
