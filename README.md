@@ -2,17 +2,17 @@
 
 <p align="center">Web developer</p>
 
-<h3 align="center">👨🏻‍💻 Sobre mim:</h3>
+<h3>👨🏻‍💻 Sobre mim:</h3>
 
-<h4 align="center">
+<h4>
 <strong>
 Olá, eu sou o Gledson. sempre fui apaixonado pelo mundo da tecnologia. Sou certificado pelo bootcamp, com mais de 1000 horas práticas, web full-stack na <a href="https://www.labenu.com.br">Labenu</a>. Um dos meus objetivos tanto como pessoa, quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei e que estou aprendendo para tentar simplificar a vida das pessoas.
 </strong>
 <h4>
  
-<h3 align="center">🛠 Tecnologias e Ferramentas<h3/>
+<h3>🛠 Tecnologias e Ferramentas<h3/>
 
-<table width="320px" align="center">
+<table width="320px">
   <tbody valign="top">
     <tr>
       <td width="80px" align="center">
@@ -80,9 +80,9 @@ Olá, eu sou o Gledson. sempre fui apaixonado pelo mundo da tecnologia. Sou cert
 </table> 
 
 
-<h3 align="center">📚 Estudando</h3>
+<h3>📚 Estudando</h3>
 
-<table width="320px" align="center">
+<table width="320px">
   <tbody valign="top">
     <tr>
       <td width="80px" align="center">
@@ -102,9 +102,9 @@ Olá, eu sou o Gledson. sempre fui apaixonado pelo mundo da tecnologia. Sou cert
 </table> 
 
 
-<h3 align="center">📧 Contato</h3>
+<h3>📧 Contato</h3>
 
-<div align="center">
+<div>
   <a href="mailto:gledsonlucas111@gmail.com">
     <img height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -116,8 +116,8 @@ Olá, eu sou o Gledson. sempre fui apaixonado pelo mundo da tecnologia. Sou cert
  
 <div>
  
- <h3 align="center">⭐ GitHub Stats</h3>
-  <div align="center">
+ <h3>⭐ GitHub Stats</h3>
+  <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gledsonlucas111&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gledsonlucas111&layout=compact&langs_count=7&theme=radical"/>
