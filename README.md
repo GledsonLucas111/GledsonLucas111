@@ -1,6 +1,6 @@
-<h1 align="center">Olá, seja bem vindo(a) ao meu GitHub👋</h1>
+<h1>Olá, seja bem vindo(a) ao meu GitHub👋</h1>
 
-<p align="center">Web developer</p>
+<p>Web developer</p>
 
 <h3>👨🏻‍💻 Sobre mim:</h3>
 
