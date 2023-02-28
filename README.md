@@ -6,7 +6,7 @@
 
 <h4>
 <strong>
-Olá, eu sou o Gledson. sempre fui apaixonado pelo mundo da tecnologia. Sou certificado pelo bootcamp, com mais de 1000 horas práticas, web full-stack na <a href="https://www.labenu.com.br">Labenu</a>. Um dos meus objetivos tanto como pessoa, quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, e colocando em prática tudo que já sei e que estou aprendendo para tentar simplificar a vida das pessoas.
+Olá, eu sou o Gledson. Sou entusiasta do mundo da tecnologia. Um dos meus objetivos tanto como pessoa, quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, colocando em prática tudo o que eu já sei e o que eu estou aprendendo.
 </strong>
 <h4>
  
