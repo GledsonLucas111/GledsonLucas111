@@ -6,7 +6,7 @@
 
 <h4>
 <strong>
-Olá, eu sou o Gledson. Sou entusiasta do mundo da tecnologia. Um dos meus objetivos tanto como pessoa, quanto profissional é de estar em um constante aprendizado, sempre aprimorando minhas Hard e Soft Skills, colocando em prática tudo o que eu já sei e o que eu estou aprendendo.
+ Sou um profissional apaixonado pela area da programação, voltado para o front-end e o back-end do desenvolvimento web, com quase 2 anos de experiências de projetos práticos, tanto individuais como em grupo. Busco diariamente meu aprimoramento, colocando em prática tudo que já sei e tudo que estou aprendendo.
 </strong>
 <h4>
  
