@@ -75,6 +75,12 @@ Olá, eu sou o Gledson. Sou entusiasta do mundo da tecnologia. Um dos meus objet
           <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
         </a>
       </td>
+     <td width="80px" align="center">
+        <a href="https://nextjs.org">
+          <span>Next.js</span>
+          <img height="50px" alt="logo-Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+        </a>
+      </td> 
     </tr>
   </tbody>
 </table> 
@@ -91,10 +97,10 @@ Olá, eu sou o Gledson. Sou entusiasta do mundo da tecnologia. Um dos meus objet
           <img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         </a>
       </td>
-      <td width="80px" align="center">
+     <td width="80px" align="center">
         <a href="https://nextjs.org">
-          <span>Next.js</span>
-          <img height="50px" alt="logo-Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+          <span>Java</span>
+          <img height="50px" alt="logo-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
         </a>
       </td> 
     </tr>
