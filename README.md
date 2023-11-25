@@ -6,7 +6,7 @@
 
 <h4>
 <strong>
- Sou um profissional apaixonado pela area da programação, voltado para o front-end e o back-end do desenvolvimento web, com quase 2 anos de experiências de projetos práticos, tanto individuais como em grupo. Busco diariamente meu aprimoramento, colocando em prática tudo que já sei e tudo que estou aprendendo.
+ Sou um profissional apaixonado pela area da programação, voltado para desenvolvimento web, com quase 2 anos de experiências de projetos práticos, tanto individuais como em grupo. Busco diariamente meu aprimoramento, colocando em prática tudo que já sei e tudo que estou aprendendo.
 </strong>
 <h4>
  
