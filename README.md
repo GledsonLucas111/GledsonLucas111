@@ -6,7 +6,7 @@
 
 <h4>
 <strong>
- Sou um profissional apaixonado pela area da programação, voltado para desenvolvimento web, com quase 2 anos de experiências de projetos práticos, tanto individuais como em grupo. Busco diariamente meu aprimoramento, colocando em prática tudo que já sei e tudo que estou aprendendo.
+ Sou um profissional apaixonado pela área da tecnologia em geral, ainda mais quando se trata de programação, com ênfase no desenvolvimento web. Tenho mais 2 anos de experiências em projetos práticos, tanto individuais quanto em grupo, onde desenvolvi habilidades como: liderança, foco, trabalho em equipe, autonomia e muitas outras.  
 </strong>
 <h4>
  
