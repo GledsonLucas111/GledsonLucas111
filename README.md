@@ -1,10 +1,10 @@
 ###
 
-<h1 align="center">Olá 👋</h1>
+<h1>Olá 👋</h1>
 
 ###
 
-<div align="center">
+<div>
   <a href="mailto:gledsonlucas111@gmail.com">
     <img height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -15,7 +15,7 @@
 
 <h3>👨🏻‍💻 Sobre mim:</h3>
 
-<p align="left"><br>- 📚 Atualmente estou estudando Analise e Desenvolvimento de sistemas <br>- ⚡No meu tempo livre eu gosto de programar </p>
+<p><br>- 📚 Atualmente estou estudando Analise e Desenvolvimento de sistemas <br>- ⚡No meu tempo livre eu gosto de programar </p>
 
 ##
  
@@ -60,36 +60,24 @@
 
 <h3>📚 Estudando</h3>
 
-<div>
+<div >
       <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
        <img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
      </a>
      <a href="https://nextjs.org">
        <img height="50px" alt="logo-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
      </a>
-</div> 
+</div > 
 
 
-<h3>📧 Contato</h3>
-
-<div>
-  <a href="mailto:gledsonlucas111@gmail.com">
-    <img height="35px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gledson-lucas-1b5873166/">
-    <img height="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
- </div>
- 
- ##
 
  ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 >🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
+<div >
   <img src="https://streak-stats.demolab.com?user=gledsonlucas111&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
