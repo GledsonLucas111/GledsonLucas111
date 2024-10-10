@@ -17,7 +17,6 @@
 
 <p><br>- 📚 Atualmente estou estudando Analise e Desenvolvimento de sistemas <br>- ⚡No meu tempo livre eu gosto de programar </p>
 
-##
  
 <h3>🛠 Tecnologias e Ferramentas<h3/>
 
