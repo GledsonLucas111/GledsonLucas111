@@ -18,7 +18,7 @@
 <p>📚 Atualmente estou estudando Analise e Desenvolvimento de sistemas <br/>⚡No meu tempo livre eu gosto de programar </p>
 
  
-<h3>🛠 Tecnologias e Ferramentas<h3/>
+<h3>🛠 Tecnologias e Ferramentas:<h3/>
 
 <div>
         <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -57,7 +57,7 @@
 </div> 
 
 
-<h3>📚 Estudando</h3>
+<h3>📚 Estudando:</h3>
 
 <div >
       <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
@@ -72,7 +72,7 @@
 
  ###
 
-<h3 >🔥   My Stats :</h3>
+<h3 >🔥 Meus Status:</h3>
 
 ###
 
