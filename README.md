@@ -63,11 +63,11 @@
 <h3>📚 Estudando:</h3>
 
 <div >
-      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-       <img height="50px" alt="logo-C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-     </a>
-     <a href="https://nextjs.org">
+     <a href="https://www.java.com/pt-BR/">
        <img height="50px" alt="logo-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+     </a>
+     <a href="https://nestjs.com">
+        <img height="50px" alt="logo-Nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
      </a>
 </div > 
 
