@@ -33,12 +33,6 @@
         <a href="https://www.typescriptlang.org/docs/">
           <img height="50px" alt="logo-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
         </a>
-        <a href="https://pt-br.reactjs.org/docs/getting-started.html">
-          <img height="50px" alt="logo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-        </a>
-        <a href="https://mui.com/pt/material-ui/getting-started/overview/">
-          <img height="50px" alt="logo-MaterialUi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-        </a>
         <a href="https://nodejs.org/en/docs/">
           <img height="50px" alt="logo-Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
         </a>
@@ -48,15 +42,22 @@
         <a href="https://jestjs.io/pt-BR/docs/getting-started">
           <img height="45px" alt="logo-Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
         </a>
-        <a href="https://sass-lang.com/documentation/">
-          <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+        <a href="https://pt-br.reactjs.org/docs/getting-started.html">
+          <img height="50px" alt="logo-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
         </a>
         <a href="https://nextjs.org">
           <img height="50px" alt="logo-Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
         </a>
-        <a href="https://tailwindcss.com/">
+        <a href="https://mui.com/pt/material-ui/getting-started/overview/">
+          <img height="50px" alt="logo-MaterialUi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+        </a>
+          <a href="https://tailwindcss.com/">
             <img height="50px" alt="logo-tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
         </a>
+        <a href="https://sass-lang.com/documentation/">
+          <img height="50px" alt="logo-Saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+        </a>
+
 </div> 
 
 
