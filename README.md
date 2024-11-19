@@ -60,6 +60,9 @@
         <a href="https://git-scm.com/doc">
             <img height="70px" align="center" alt="logo-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
         </a>
+        <a href="https://git-scm.com/doc">
+            <img height="70px" align="center" alt="logo-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+        </a>
 
 </div> 
 
