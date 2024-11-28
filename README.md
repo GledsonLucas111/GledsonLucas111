@@ -63,7 +63,9 @@
         <a href="https://git-scm.com/doc">
             <img height="70px" align="center" alt="logo-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
         </a>
-
+       <a href="https://nestjs.com">
+        <img height="75px" align="center" alt="logo-Nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+     </a>
 </div> 
 
 
@@ -73,9 +75,7 @@
      <a href="https://www.java.com/pt-BR">
        <img height="75px" align="center" alt="logo-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
      </a>
-     <a href="https://nestjs.com">
-        <img height="75px" align="center" alt="logo-Nest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-     </a>
+
 </div > 
 
 
