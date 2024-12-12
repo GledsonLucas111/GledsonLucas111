@@ -17,7 +17,6 @@
 
 <p>📚 Atualmente estou estudando Sistemas para Internet (IFMA). <br/>⚡No meu tempo livre eu gosto de programar, assistir e me exercitar... </p>
 
- 
 <h3>🛠 Tecnologias e Ferramentas:<h3/>
 
 <div>
@@ -68,7 +67,6 @@
      </a>
 </div> 
 
-
 <h3>📚 Estudando:</h3>
 
 <div >
@@ -77,8 +75,6 @@
      </a>
 
 </div > 
-
-
 
  ###
 
