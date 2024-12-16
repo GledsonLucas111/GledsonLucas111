@@ -83,3 +83,10 @@
 <div >
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gledsonlucas111&theme=highcontrast&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gledsonlucas111/gledsonlucas111/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gledsonlucas111/gledsonlucas111/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
